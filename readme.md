@@ -1,5 +1,4 @@
 # Minimal example with librsvg
----
 
 ## Compile & Run
 
