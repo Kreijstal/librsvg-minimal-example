@@ -19,7 +19,7 @@ int main()
     RsvgDimensionData dim;
     double width, height;
     const char *filename = "tiger.svg";
-    const char *output_filename = "outtiger";
+    const char *output_filename = "outtiger.png";
     cairo_surface_t *surface;
     cairo_t *cr;
     cairo_status_t status;
@@ -41,7 +41,7 @@ int main()
       file.read (memblock, size);
       file.close();
       printf("SVG File Content!\n");
-      printf(memblock);
+      //printf(memblock);
 
 
     }
