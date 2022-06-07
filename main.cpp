@@ -4,22 +4,26 @@
 #include <stdlib.h>
 //#include <glib/gprintf.h>
 #include <librsvg/rsvg.h>
-#include <librsvg/rsvg-cairo.h>
+//#include <librsvg/rsvg-cairo.h>
 #include <iostream>
 #include <fstream>
 
 using namespace std;
 
-int main()
+int main(int argc,char* argv[])
 {
     printf("Hello!\n");
+    std::string input="tiger.svg";
+    std::string output="outtiger.svg";
+    if(argc>1){input=argv[1];}
+    if(argc>2){output=argv[2];}
 
     GError *error = NULL;
     RsvgHandle *handle;
-    RsvgDimensionData dim;
-    double width, height;
-    const char *filename = "tiger.svg";
-    const char *output_filename = "outtiger.png";
+    //RsvgDimensionData dim;
+    gdouble width, height;
+    char *filename = const_cast<char*>(input.c_str());
+    char *output_filename =const_cast<char*>(output.c_str());
     cairo_surface_t *surface;
     cairo_t *cr;
     cairo_status_t status;
@@ -46,7 +50,7 @@ int main()
 
     }
 
-    rsvg_set_default_dpi (72.0);
+    //rsvg_set_default_dpi (72.0);
     handle = rsvg_handle_new_from_data((const guint8 *)memblock, (gsize)size, &error);
     //handle = rsvg_handle_new_from_file (filename, &error);
     if (error != NULL)
@@ -56,15 +60,20 @@ int main()
         return 1;
     }
 
-    rsvg_handle_get_dimensions (handle, &dim);
-    width = dim.width;
-    height = dim.height;
+    //rsvg_handle_get_dimensions (handle, &dim);
+    rsvg_handle_get_intrinsic_size_in_pixels(handle,&width,&height);
+    //width = dim.width;
+    //height = dim.height;
 
     surface = cairo_image_surface_create (CAIRO_FORMAT_ARGB32, width, height);
 
     cr = cairo_create (surface);
-
-    rsvg_handle_render_cairo (handle, cr);
+    RsvgRectangle viewport;
+    viewport.x=0;
+    viewport.y=0;
+    viewport.width=width;
+    viewport.height=height;
+    rsvg_handle_render_document (handle, cr,&viewport,NULL);
 
     status = cairo_status (cr);
     if (status)

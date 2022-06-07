@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export Tripunkt text.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.55724in" height="2.09268in"
+		viewBox="0 0 112.122 150.673" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisAecDocument" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisAecVersion" v:val="VT0(16):26"/>
+			<v:ud v:nameU="Ifc__CustomPropsLevel" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#f59d56;fill-opacity:0.67;stroke:#000000;stroke-dasharray:5.04,3.6;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st3 {font-size:1em}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:custProps>
+			<v:cp v:nameU="VisDoorFrameWidth" v:lbl="Türrahmenbreite" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorFrameDepth" v:lbl="Türrahmentiefe" v:type="4"
+					v:format="Rahmen zu Wand;100 mm;150 mm;200 mm;250 mm;300 mm" v:sortKey="" v:invis="true" v:langID="1031"
+					v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorStopWidth" v:lbl="Türstoppbreite" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(20 mm)"/>
+			<v:cp v:nameU="VisDoorStopDepth" v:lbl="Türstopptiefe" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorThresDepthIn" v:lbl="Türschwellenbreite innen" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorThresWidthIn" v:lbl="Türschwellentiefe innen" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorThresDepthOut" v:lbl="Türschwellentiefe außen" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorThresWidthOut" v:lbl="Türschwellenbreite außen" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorPanelThickness" v:lbl="Türtrennwandstärke" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwFrameDepth" v:lbl="Fensterrahmentiefe" v:type="4"
+					v:format="Rahmen zu Wand;100 mm;150 mm;200 mm;250 mm;300 mm" v:sortKey="" v:invis="true" v:langID="1031"
+					v:cal="0" v:val="VT4(200 mm)"/>
+			<v:cp v:nameU="VisWndwFrameWidth" v:lbl="Fensterrahmenbreite" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwSashDepth" v:lbl="Klappfenstertiefe" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwSashWidth" v:lbl="Klappfensterbreite" v:type="4"
+					v:format="5 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwSillDepthIn" v:lbl="Fensterbretttiefe innen" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwSillWidthIn" v:lbl="Fensterbrettbreite innen" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwSillDepthOut" v:lbl="Fensterbretttiefe außen" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwSillWidthOut" v:lbl="Fensterbrettbreite außen" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="1031" v:cal="0" v:val="VT4(50 mm)"/>
+		</v:custProps>
+		<v:userDefs>
+			<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+			<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+			<v:ud v:nameU="LUnits" v:val="VT0(0):26"/>
+			<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+			<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+			<v:ud v:nameU="visAecPage" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorPanelsClosed" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowHeader" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowPanel" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorShowSwing" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorShowThreshold" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowThresIn" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorShowThresOut" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorFrameToWall" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorSwingAs" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowFrame" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorShowStop" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisWndwShowFrame" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisWndwShowSash" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisWndwFrameToWall" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisWndwShowHeader" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisWndwShowSill" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisWndwShowSillIn" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisWndwShowSillOut" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpaceUnits" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpacePrecision" v:val="VT0(0):26"/>
+			<v:ud v:nameU="visSpaceLabel" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpaceNameLabel" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpaceUseLabel" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpaceBoundary" v:val="VT0(0):26"/>
+			<v:ud v:nameU="SpaceLabelDisabled" v:prompt="Deaktivierte Bezeichnung" v:val="VT4()"/>
+			<v:ud v:nameU="DisplayField1" v:prompt="Raumbezeichnung 1" v:val="VT4(Prop.Use)"/>
+			<v:ud v:nameU="DisplayField2" v:prompt="Raumbezeichnung 2" v:val="VT4(Prop.Name)"/>
+			<v:ud v:nameU="DisplayField3" v:prompt="Raumbezeichnung 3" v:val="VT4(User.visFMAreaDisplay)"/>
+			<v:ud v:nameU="DisplayField4" v:prompt="Raumbezeichnung 4" v:val="VT4(User.DisplayFieldDisabled)"/>
+			<v:ud v:nameU="IFCPropsInvisible" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Gebäudeverkleidung" v:index="0"/>
+		<v:layer v:name="Wand" v:index="1"/>
+		<v:layer v:name="Cisco-Phase1.Schleuse-neu" v:index="2"/>
+		<g id="shape46-1" v:mID="46" v:groupContext="shape" v:layerMember="2" transform="translate(18.36,-18.36)">
+			<title>Tabelle.46</title>
+			<desc>This is text that goes down automatically</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="37.7008" cy="93.6964" width="75.41" height="113.953"/>
+			<path d="M0 150.67 L75.4 150.67 L75.4 36.72 L0 36.72 L0 150.67 Z" class="st1"/>
+			<text x="11.86" y="75.7" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>This is text <tspan
+						x="14.98" dy="1.2em" class="st3">that goes </tspan><tspan x="23.94" dy="1.2em" class="st3">down </tspan><tspan
+						x="4.57" dy="1.2em" class="st3">automatically</tspan></text>		</g>
+	</g>
+</svg>
